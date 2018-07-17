@@ -4,7 +4,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 
 /**
- * 一句话描述
+ * DockerDemoApplication 启动类
  *
  * @author johnny
  * @date 2018/7/16
